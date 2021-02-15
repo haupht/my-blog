@@ -1,2 +1,1 @@
-# my-blog
-My new blog
+# This is a repo for my blog site.
